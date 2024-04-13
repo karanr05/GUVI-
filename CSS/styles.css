@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .card {
+    /* border: none; */
+    border-radius: 10px;
+  }
+  
+  .form-control {
+    /* border: none; */
+    border-radius: 5px;
+  }
+  
+  .btn {
+    border-radius: 5px;
+  }
+  
+  .text-muted a {
+    color: #000000;
+    font-weight: bolder;
+  }

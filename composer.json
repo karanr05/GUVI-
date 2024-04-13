@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "predis/predis": "^2.2",
+        "mongodb/mongodb": "^1.11"
+    }
+}
